@@ -1,0 +1,13 @@
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\bin\Debug\PraktikantSoundBoard.exe.config
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\bin\Debug\PraktikantSoundBoard.exe
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\bin\Debug\PraktikantSoundBoard.pdb
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\obj\Debug\PraktikantSoundBoard.csprojAssemblyReference.cache
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\obj\Debug\PraktikantSoundBoard.Properties.Resources.resources
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\obj\Debug\PraktikantSoundBoard.csproj.GenerateResource.cache
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\obj\Debug\PraktikantSoundBoard.csproj.CoreCompileInputs.cache
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\obj\Debug\PraktikantSoundBoard.exe
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\obj\Debug\PraktikantSoundBoard.pdb
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\obj\Debug\PraktikantSoundBoard.Form1.resources
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\bin\Debug\NAudio.dll
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\bin\Debug\NAudio.xml
+C:\OtherWork\PraktikantSoundBoard\PraktikantSoundBoard\obj\Debug\PraktikantSoundBoard.csproj.CopyComplete
